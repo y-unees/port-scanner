@@ -98,26 +98,22 @@ portscan [target ip]
 ## Usage
 
 ### Basic Port Scan
-```
-bash 
+``` 
 python3 scanner.py [ip]
 ```
 
 ### Specific Port Scan
 ```
-bash
 python3 scanner.py [ip] -p [port]
 ```
 
 ### All ports scan
 ```
-bash
 python3 scanner.py [ip] -p-
 ```
 
 ### Show verbose output
 ```
-bash
 python3 scanner.py [ip] -v
 python3 scanner.py [ip] -vv
 ```
