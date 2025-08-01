@@ -161,7 +161,7 @@ Total Closed Ports: 1012
 - Filtered ports are those that timeout (typically due to firewalls).
 
 ## Suggestions
-📬 Email: [Mail](mailto:why.unees29@gmail.com)
+📬 Email: why.unees29@gmail.com
 
 Your feedback is much appreciated!
 
